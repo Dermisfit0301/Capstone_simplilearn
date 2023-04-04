@@ -1,2 +1,4 @@
 This folder contains the loan default statistics obtained from Indian banks. Here we are going to use classifier methods like 
 Decision Tree, random Forest and Logistic regression and make an attempt to classify whether an applicant will default on his payments or not.
+
+This folder contains the python source code as well as the tableau data visualization in form of a PDF. 
