@@ -1,0 +1,2 @@
+#Description
+This dataset has the information of about 300 patients. Our job here is to find out which factors are responsible for a patient getting a heart attack. Also we need to find out the metrics of a healthy person and a diseased person. We will use a classifier based algorithm to predict which person gets a heart attack based on various factos like cholestorol level, heart rate, chest pain type etc.  
